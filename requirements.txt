@@ -1,0 +1,8 @@
+pillow
+pyhook3
+psutil
+pyperclip
+windnd
+wxpython
+baidu_aip
+chardet
