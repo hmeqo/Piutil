@@ -6,3 +6,4 @@ windnd
 wxpython
 baidu_aip
 chardet
+requests
